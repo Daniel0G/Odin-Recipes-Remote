@@ -1,6 +1,7 @@
 # Odin-Recipes-Remote
 
-# 1.  Create a webpage for recipes
+#  Create a webpage for recipes
+    - Create a landing page.
     - All websites lead to other recipes.
-    - Present basic understand of HTML concepts i have been taught.
+    - Present basic understand of HTML concepts I have been taught.
     - Deepen understanding of git and its various functions
