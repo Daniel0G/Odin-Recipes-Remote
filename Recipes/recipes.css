@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body { 
+  background-color:#6f2100;
+  font-family: math;
+}
+#content {
+  display: flex;
+  align-items: center;
+}
+#myImage {
+  display: block;
+  width: 300px;
+  height: 200px;  
+  margin: auto;
+  border: 2px solid black;
+}
+.recipe-menu {
+    background-color: white;
+    height: 800px;
+    width: 500px;
+    margin: 20px auto;
+    border: 20px solid black;
+
+}
+.recipe-header {
+  text-align: center;
+  font-weight:bolder;
+  padding: 10px;
+}
+.lists {
+  
+  text-align:center;
+  color: black;
+  text-decoration: none;
+  list-style: none;
+}
+ul li{
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+#recipe-link a{
+background-color: #000000;
+  color: white;
+  text-decoration: none;
+  padding: 10px 12px;
+  display: inline-block;
+  border: 2px solid white;
+  align-items: end ;
+}
+.parent {
+  margin: 1px;
+  padding: 2px 2px;
+  text-align: center;
+}
+.child {
+  display: inline-block;
+  padding: 10px;
+  vertical-align: middle;
+  margin-left: 20px;
+  margin-right: 10px;
+}
